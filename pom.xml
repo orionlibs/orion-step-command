@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-step-command</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Orion Step Command</name>
     <description>Java library that parses text-based commands like cucumber does </description>
     <url>https://github.com/orionlibs/orion-step-command</url>
@@ -229,14 +229,14 @@
         <dependency>
             <groupId>io.github.orionlibs</groupId>
             <artifactId>orion-tuple</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
 
 
         <dependency>
             <groupId>io.github.orionlibs</groupId>
             <artifactId>orion-reflection</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
 
 
